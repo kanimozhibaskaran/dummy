@@ -1,4 +1,4 @@
-package com.myreactnative;
+package com.kiet.MyReactNative;
 
 import android.app.Application;
 import android.content.res.Configuration;
